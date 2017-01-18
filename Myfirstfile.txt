@@ -1,2 +1,3 @@
 hi we are demonstrating GIT.
 how are you ?
+enetering data while being in master branch
